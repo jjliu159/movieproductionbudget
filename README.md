@@ -4,6 +4,6 @@ This project is my attempt to help the movie production industry by setting a pr
 ## How to use 
 The file is in a .ipynb format, it's best if you use google colab (that's what was used)
 
-The .csv file was grabbed from Kaggle, here's the link for where it's from: **https://www.kaggle.com/rounakbanik/the-movies-dataset**
+The movie_dataset.csv, although not in this Github (too large to upload), is necessary. The .csv file was grabbed from Kaggle, here's the link for where it's from: **https://www.kaggle.com/rounakbanik/the-movies-dataset**
 
 
