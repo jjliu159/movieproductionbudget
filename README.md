@@ -1,5 +1,5 @@
 # Movie Production Budget
-This project is my attempt to help the movie production industry by setting a production budget standard based on different genres. The standard was generated from training and testing a linear regression model.  
+This project is my attempt to help the movie production industry by setting a production budget standard based on different genres to be able to help achieve a profit. The standard was generated from training and testing a linear regression model.  
 
 ## How to use 
 The file is in a .ipynb format, it's best if you use google colab (that's what was used)
